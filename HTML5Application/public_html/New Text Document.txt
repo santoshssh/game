@@ -1,0 +1,36 @@
+<html>
+<head>
+<title>
+latest news
+</title>
+<body>
+<p>
+Rise of the Tomb Raider official launch trailer
+News - Lara Croft is picking up where her father left off, as she searches for the secret to immortality. Read More
+Every outfit in Assassin's Creed Syndicate
+News - These are all of the outfits you can find, unlock or craft throughout Assassin's Creed Syndicate. Read More
+The best Halloween horror if you're terrified of horror
+News - If you like weird, spooky stuff, but don't particularly like being scared, here are some macabre recommendations that might interest you. Read More
+Daniel Bryan thinks drinking tea is for dummies
+News - Excited to take control of Daniel Bryan in WWE 2K16? Listen to the man tell you how to cut the perfect wrestling promo. Read More
+Playing Rayman Adventures on the Apple TV
+News - Justin and Lewis play Rayman Adventures on the new Apple TV using its trackpad remote. Read More
+How Deus Ex perfected emergent gameplay
+News - Deus Ex blew us all away for being more than just a shooter; it immersed us in a world we actually had influence on, and we reminiscence on what those actions meant to us. Read More
+Preacher trailer premieres during The Walking Dead
+News - The new AMC drama is slated for a mid-2016 premiere. Read More
+SPECTRE debut shatters U.K. records, grosses $80.4 million internationally
+News - The 24th James Bond film dethroned Harry Potter and the Prisoner of Azkaban with its record-breaking debut. Read More
+Power Rangers movie will use original character names
+News - Lionsgate's Mighty Morphin film will mark the return of Jason, Kimberly, Billy, Zack, and Trini. Read More
+Star Wars R2-D2 fridge features a rotating head and hefty price
+News - Haier Asia's new remote-controlled mini-fridge sure isn't cheap. Read More
+Original Nintendo Entertainment System press release surfaces online
+News - According market research, R.O.B. was the prime reason kids in the U.S. wanted Nintendo's first game console. Read More
+Worlds: SK Telecom T1 wins League of Legends 2015 championship
+News - In a big, explosive game 4 finale, the Korea vs. Korea finale comes to a close. Read More
+iPad Pro reportedly going on sale November 11
+News - In less than two weeks' time, Apple is expected to release the latest entry in its popular line of tablets. Read More
+</p>
+</body>
+</html>
